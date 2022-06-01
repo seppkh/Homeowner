@@ -1,0 +1,7 @@
+{
+  "name": "Kommud korda",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
